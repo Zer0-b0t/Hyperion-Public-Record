@@ -47,6 +47,7 @@ The system emphasizes **education**, **clarity**, and **competition reliability*
 
 These will remain private until the competition season concludes  
 (or may remain private indefinitely).
+(However can show the code on request as a proof of existance)
 
 ---
 
