@@ -56,9 +56,9 @@ These will remain private until the competition season concludes
 > Representative visuals from the development version  
 > (no code or sensitive data shown)
 
-![UI Preview](assets/ui-preview.png)
-![Path Planning](assets/path-planning-demo.png)
-![Field Visualization](assets/field-visualization.png)
+![UI Preview](assets/images/ui-preview.png)
+![Path Planning](assets/images/path-planning-demo.png)
+![Field Visualization](assets/images/field-visualization.png)
 
 ---
 
