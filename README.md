@@ -60,6 +60,8 @@ These will remain private until the competition season concludes
 ![Field Visualization](assets/images/field-visualization.png)
 ![Path Planning](assets/images/path-planning-demo.png)
 
+![test](assets/images/total.png)
+![test2](assets/images/project-stats.png)
 ---
 
 ## License
