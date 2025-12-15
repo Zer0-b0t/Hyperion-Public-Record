@@ -57,8 +57,8 @@ These will remain private until the competition season concludes
 > (no code or sensitive data shown)
 
 ![UI Preview](assets/images/ui-preview.png)
-![Path Planning](assets/images/path-planning-demo.png)
 ![Field Visualization](assets/images/field-visualization.png)
+![Path Planning](assets/images/path-planning-demo.png)
 
 ---
 
