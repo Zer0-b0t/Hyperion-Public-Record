@@ -58,10 +58,14 @@ These will remain private until the competition season concludes
 
 ![UI Preview](assets/images/ui-preview.png)
 ![Field Visualization](assets/images/field-visualization.png)
+> UI
 ![Path Planning](assets/images/path-planning-demo.png)
-
+> Path UI
+>
+> 
 ![test](assets/images/total.png)
 ![test2](assets/images/project-stats.png)
+> Proof of ownership
 ---
 
 ## License
