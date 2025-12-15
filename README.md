@@ -55,16 +55,15 @@ These will remain private until the competition season concludes
 
 > Representative visuals from the development version  
 > (no code or sensitive data shown)
-
 ![UI Preview](assets/images/ui-preview.png)
 ![Field Visualization](assets/images/field-visualization.png)
-> UI
+> 
 ![Path Planning](assets/images/path-planning-demo.png)
 > Path UI
 >
 > 
-![test](assets/images/total.png)
 ![test2](assets/images/project-stats.png)
+![test](assets/images/total.png)
 > Proof of ownership
 ---
 
