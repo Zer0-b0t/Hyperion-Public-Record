@@ -54,7 +54,6 @@ These will remain private until the competition season concludes
 ## Visual Previews
 
 > Representative visuals from the development version  
-> (no code or sensitive data shown)
 ![UI Preview](assets/images/ui-preview.png)
 ![Field Visualization](assets/images/field-visualization.png)
 > 
