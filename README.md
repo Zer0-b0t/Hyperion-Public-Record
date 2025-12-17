@@ -16,7 +16,7 @@
 
 The **Hyperion Autonomous Engine** exists and is actively developed,  
 however the **source code is currently private** due to an ongoing  
-VEX Robotics Competition phase (round on the **27th**).
+VEX Robotics Competition phase (2 competetions on the **27th** and **3th**).
 
 This repository exists to:
 - publicly document the project’s existence
