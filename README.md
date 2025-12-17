@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)
 
 > An autonomous path planning and code generation engine for  
-> **VEX Robotics Competition (VRC)** teams.
+> **VEX Robotics Competition (V5RC)** teams.
 
 ---
 
